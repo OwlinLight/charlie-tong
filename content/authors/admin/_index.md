@@ -26,7 +26,7 @@ education:
   courses:
     - course: B.S in Computer Science and Engineering
       institution: the Ohio State University
-      year: 2018
+      year: 2021
     - course: B.S. in Software Engineering
       institution: Zhejiang University of Technology
       year: 2018
