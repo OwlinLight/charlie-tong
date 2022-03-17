@@ -1,6 +1,6 @@
 ---
 title: Charlie Tong
-role: Undergraduate in Ohio State University
+role: Undergraduate at the Ohio State University
 avatar_filename: hhds.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -8,9 +8,6 @@ interests:
   - Artificial Intelligence
   - Imgae Retrieval
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CharlieTong3
