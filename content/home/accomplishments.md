@@ -43,7 +43,7 @@ item:
   date_end: "2022-12-16"
   date_start: "2021-08-20"
   description: ""
-  organization: OSU CoE
+  organization: "OSU CoE"
   organization_url: https://engineering.osu.edu/
   title: 'Dean's List AU21'
   url: ""
