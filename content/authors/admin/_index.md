@@ -6,22 +6,26 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/CharlieTong3
+  - display:
+      header: true
+    link: mailto:tong.408@osu.edu
+    icon_pack: fas
+    icon: envelope
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%80%9D%E9%99%B6-%E7%AB%A5-a982431aa/
+    display:
+      header: false
   - display:
       header: true
     link: https://github.com/OwlinLight
     icon_pack: fab
     icon: github
-  - display:
-      header: true
-    link: tong.408@osu.edu
-    icon_pack: fas
-    icon: envelope
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/CharlieTong3
+    display:
+      header: false
 organizations:
   - name: OSU
     url: https://www.osu.edu/
