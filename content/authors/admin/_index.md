@@ -20,7 +20,7 @@ social:
   - display:
       header: false
     link: tong.408@osu.edu
-    icon_pack: fab
+    icon_pack: fas
     icon: envelop
 organizations:
   - name: OSU
