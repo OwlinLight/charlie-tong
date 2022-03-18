@@ -40,4 +40,4 @@ I'm interested in the research about Sketch-Based Image Retrieval.
 
 For more information, please get refer to my Github page.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

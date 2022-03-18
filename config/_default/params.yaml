@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: coffee
+  theme_night: coffee
+  font: coffee
   font_size: L
 
 # SEO
@@ -40,7 +40,7 @@ header:
     highlight_active_link: true
 
 footer:
-  copyright:
+copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
