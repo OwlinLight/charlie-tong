@@ -13,15 +13,15 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%80%9D%E9%99%B6-%E7%AB%A5-a982431aa/
   - display:
-      header: false
+      header: true
     link: https://github.com/OwlinLight
     icon_pack: fab
     icon: github
   - display:
-      header: false
+      header: true
     link: tong.408@osu.edu
     icon_pack: fas
-    icon: envelop
+    icon: envelope
 organizations:
   - name: OSU
     url: https://www.osu.edu/
