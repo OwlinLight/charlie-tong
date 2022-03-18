@@ -4,9 +4,7 @@ role: Undergraduate at the Ohio State University
 avatar_filename: hhds.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Imgae Retrieval
+interests: []
 social:
   - icon: twitter
     icon_pack: fab
@@ -15,16 +13,21 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%80%9D%E9%99%B6-%E7%AB%A5-a982431aa/
   - display:
-      header: false
+      header: true
     link: https://github.com/OwlinLight
     icon_pack: fab
     icon: github
+  - display:
+      header: true
+    link: tong.408@osu.edu
+    icon_pack: fas
+    icon: envelope
 organizations:
-  - name: the Ohio State University
+  - name: OSU
     url: https://www.osu.edu/
 education:
   courses:
-    - course: B.S in Computer Science and Engineering
+    - course: B.S in Computer Science and Engineering (Transfer)
       institution: the Ohio State University
       year: 2021
     - course: B.S. in Software Engineering
@@ -36,8 +39,11 @@ highlight_name: true
 ---
 I'm currently pursuing B.S. at the Ohio State University.
 
-I'm interested in the research about Sketch-Based Image Retrieval.
+I'm interested in 
 
-For more information, please get refer to my Github page.
+* Sketch-Based Image Retrieval
+* Web development
+
+For more information, please refer to my resume and Github page.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
