@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sitao (Charlie) Tong's personal website # Website name
+title: Charlie Tong # Website name
 baseURL: 'https://charlie-tong.netlify.app/' # Website URL
 
 ############################
