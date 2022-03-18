@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+# - certificate_url: https://www.coursera.org
+#   date_end: ""
+#   date_start: "2021-01-25"
+#   description: ""
+#   organization: Coursera
+#   organization_url: https://www.coursera.org
+#   title: Neural Networks and Deep Learning
+#   url: ""
+# - certificate_url: https://www.edx.org
+#   date_end: ""
+#   date_start: "2021-01-01"
+#   description: Formulated informed blockchain models, hypotheses, and use cases.
+#   organization: edX
+#   organization_url: https://www.edx.org
+#   title: Blockchain Fundamentals
+#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://engineering.osu.edu/sites/default/files/2022-02/Dean%27s%20List_Autumn%202021.pdf
+  date_end: "2022-12-16"
+  date_start: "2021-08-20"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: OSU CoE
+  organization_url: https://engineering.osu.edu/
+  title: 'Dean's List AU21'
   url: ""
 
 design:
