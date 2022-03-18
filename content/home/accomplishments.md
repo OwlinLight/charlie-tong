@@ -41,14 +41,14 @@ item:
 #   organization_url: https://www.edx.org
 #   title: Blockchain Fundamentals
 #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://engineering.osu.edu/sites/default/files/2022-02/Dean%27s%20List_Autumn%202021.pdf
-  date_end: "2022-12-16"
-  date_start: "2021-08-20"
-  description: ""
-  organization: "OSU CoE"
-  organization_url: https://engineering.osu.edu/
-  title: 'Dean's List AU21'
-  url: ""
+# - certificate_url: https://engineering.osu.edu/sites/default/files/2022-02/Dean%27s%20List_Autumn%202021.pdf
+#   date_end: "2022-12-16"
+#   date_start: "2021-08-20"
+#   description: ""
+#   organization: "OSU CoE"
+#   organization_url: https://engineering.osu.edu/
+#   title: 'Dean's List AU21'
+#   url: ""
 
 design:
   columns: '2' 
