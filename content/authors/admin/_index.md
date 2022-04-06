@@ -13,7 +13,7 @@ social:
     icon: envelope
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%80%9D%E9%99%B6-%E7%AB%A5-a982431aa/
+    link: linkedin.com/in/sitao-tong-a982431aa
     display:
       header: false
   - display:
