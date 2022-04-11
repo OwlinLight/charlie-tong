@@ -51,3 +51,6 @@ I'm interested in
 For more information, please refer to my resume and Github page.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Course List 1 {{< staticref "uploads/Advising-Report-AU21.pdf" "newtab" >}}OSU{{< /staticref >}}.\
+{{< icon name="download" pack="fas" >}} Course List 2 {{< staticref "uploads/ZJUT.pdf" "newtab" >}}OSU{{< /staticref >}}.
