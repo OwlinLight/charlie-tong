@@ -6,22 +6,26 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/CharlieTong3
+  - display:
+      header: true
+    link: mailto:tong.408@osu.edu
+    icon_pack: fas
+    icon: envelope
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%80%9D%E9%99%B6-%E7%AB%A5-a982431aa/
+    link: https://linkedin.com/in/sitao-tong-a982431aa
+    display:
+      header: false
   - display:
       header: true
     link: https://github.com/OwlinLight
     icon_pack: fab
     icon: github
-  - display:
-      header: true
-    link: tong.408@osu.edu
-    icon_pack: fas
-    icon: envelope
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/CharlieTong3
+    display:
+      header: false
 organizations:
   - name: OSU
     url: https://www.osu.edu/
@@ -47,3 +51,13 @@ I'm interested in
 For more information, please refer to my resume and Github page.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+OSU Major Course List {{< staticref "uploads/Advising-Report-AU21.pdf" "newtab" >}}
+
+* CSE 2221:
+* CSE 2231
+* CSE 2331
+* CSE 2421
+* full list{{< /staticref >}}.\
+  \
+  ZJUT Course List {{< staticref "uploads/ZJUT.pdf" "newtab" >}}ZJUT{{< /staticref >}}.
