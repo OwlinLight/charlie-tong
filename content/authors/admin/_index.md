@@ -52,12 +52,6 @@ For more information, please refer to my resume and Github page.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-OSU Major Course List {{< staticref "uploads/Advising-Report-AU21.pdf" "newtab" >}}
+OSU{{< staticref "uploads/OSU-Major-Course-Lists.md" "newtab" >}} Major Course List{{< /staticref >}} -- {{< staticref "uploads/Advising-Report-AU22.pdf" "newtab" >}}full list{{< /staticref >}}.
 
-* CSE 2221:
-* CSE 2231
-* CSE 2331
-* CSE 2421
-* full list{{< /staticref >}}.\
-  \
-  ZJUT Course List {{< staticref "uploads/ZJUT.pdf" "newtab" >}}ZJUT{{< /staticref >}}.
+ZJUT  {{< staticref "uploads/ZJUT-Major-Course-Lists.md" "newtab" >}} Course List{{< /staticref >}} -- {{< staticref "uploads/ZJUT-BS-AU21.pdf" "newtab" >}}full list{{< /staticref >}}.
