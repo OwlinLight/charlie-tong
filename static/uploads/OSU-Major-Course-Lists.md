@@ -1,9 +1,6 @@
 # OSU CSE Major Course List (Updated AU 22)
-
 * Software I: Software Components (2221)
-
 * Software II: Software Development and Design (2231)
-
 - Foundations II: Data Structures and Algorithms (2331)
 - Systems I: Introduction to Low-Level Programming and Computer Organization (2421)
 
