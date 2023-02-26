@@ -52,6 +52,6 @@ For more information, please refer to my resume and Github page.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-OSU{{< staticref "uploads/OSU-Major-Course-Lists.md" "newtab" >}} Major Course List{{< /staticref >}} -- {{< staticref "uploads/Advising-Report-SP22.pdf" "newtab" >}}full list{{< /staticref >}}.
+OSU {{< staticref "uploads/OSU-Major-Course-Lists.md" "newtab" >}} Major Course List{{< /staticref >}} -- {{< staticref "uploads/Advising-Report-SP23.pdf" "newtab" >}}full list{{< /staticref >}}.(updated 2.26)
 
 ZJUT  {{< staticref "uploads/ZJUT-Major-Course-Lists.md" "newtab" >}} Course List{{< /staticref >}} -- {{< staticref "uploads/ZJUT-BS-AU21.pdf" "newtab" >}}full list{{< /staticref >}}.
