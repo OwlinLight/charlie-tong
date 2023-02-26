@@ -1,87 +1,52 @@
 ---
-title: "An example conference paper"
+abstract: >
+  With the advent of the Internet era, online shopping has become the choice of
+  many people. Online shopping has generated a large number of product images in
+  order for customers to obtain product details. Keywords do not always clearly
+  describe the item characteristics. This is especially true for fashion related
+  items, such as clothes and shoes. Thus, the function of search by image is
+  based on image content for searching. However, not all search methods can use
+  images as the basis for a query. We can avoid certain scenarios that cannot be
+  photographed if we can retrieve them through sketch drawings. At the same
+  time, sketches are not limited by the physical world, and we are able to
+  retrieve the target gallery by our own ideas and thus get the items we really
+  need.
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+  In order to cope with the increasing choice of e-commerce platforms and improve the accuracy of sketch retrieval. In this paper, we first propose a new sketch-based fine-grained image retrieval method, TripleFormer-Sketch Based Image Retrival (TF-SBIR). This method integrates the deep learning methods of the last five years, and uses the latest sketch vectorization representation to input sketch stroke sequences into the improved triple-former neural network, and uses Transformer to replace part of the convolutional neural network and residual network to improve the Top1 and Top10 accuracy of the traditional triple-former neural network retrieval results. For the application of this method, a fine-grained sketch retrieval system is proposed in this paper, which queries the corresponding alternative images in the database in real time according to the information of strokes input by users. It also analyzes the contents of the alternative pictures to obtain information such as color and model of the retrieved objects.
+
+  Extensive experiments conducted in QMUL-ShoeV2, a dataset designed for triplet neural networks, show that the proposed TF-SBIR retrieval method outperforms the traditional triplet neural network method, while the experimental system can effectively help users to obtain the results of sketches corresponding to physical pictures.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "7"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - admin
+author_notes: []
+publication: Undergraduate Capstone design
+summary: "Keywords: sketch retrieval, fashionAI, triplet twin neural network,
+  Transformer "
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: Fine Grind Sketch Based Image Retrival Based on Vision Transformer
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects:
+  - SBIR
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Charlie Tong**](https://charlietong.netlify.app/)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: sbirsys.png
+date: 2023-02-26T21:50:04.144Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+The PDF is translated from Chinese to English by [DeepL](https://www.deepl.com/en/translator/files)
 {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
