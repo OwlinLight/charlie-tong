@@ -22,6 +22,7 @@ H﻿ello, This is Sitao Tong, I'm writing this post to briefly summarize how I l
 #﻿ TL;DR:
 
 I﻿ have summarize the nine major course I have learn as an undergraduate, along with the textbook and course project I have done.
-| Subject      | Why study?                                                  | Book                                    | Videos                             |
-| ------------ | ------------------------------------------------------------ | --------------------------------------- | ---------------------------------- |
-| Programming  | Don’t be the person who “never quite understood” something like recursion. | Structure and Interpretation of Computer Programs | Brian Harvey’s Berkeley CS 61A     |
+| Subject           | Where & When                             | Book                       | Project                                   |
+| ----------------- | ---------------------------------------- | -------------------------- | ----------------------------------------- |
+| C/C++ programming | 1st-SU18-at home<br />2st-AU18/SP19-ZJUT | The C Programming Language | anti-polish expression<br />singer system |
+| Java programming  | 1st-AU19-ZJUT<br />2st-AU21/SP22-OSU     | Head First Java            | Lucene Local Search<br />RSS reader       |
