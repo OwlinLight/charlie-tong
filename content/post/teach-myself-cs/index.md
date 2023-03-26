@@ -1,29 +1,25 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Teach Myself Cs"
-subtitle: ""
+title: Teach Myself CS
+subtitle: How do I learn Computer Science
+date: 2023-03-26T15:29:45-04:00
 summary: ""
+draft: false
+featured: false
 authors: []
+lastmod: 2023-03-26T15:29:45-04:00
 tags: []
 categories: []
-date: 2023-03-26T15:29:45-04:00
-lastmod: 2023-03-26T15:29:45-04:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
+#﻿ Why I write the blog
+H﻿ello, This is Sitao Tong, I'm writing this post to briefly summarize how I learn computer science in the past 5 year during my college life.
+
+#﻿ TL;DR:
+I﻿ have summarize the nine major course I have learn as an undergraduate, along with the textbook and course project I have done.
+| Subject      | Why study?                                                  | Book                                    | Videos                             |
+| ------------ | ------------------------------------------------------------ | --------------------------------------- | ---------------------------------- |
+| Programming  | Don’t be the person who “never quite understood” something like recursion. | Structure and Interpretation of Computer Programs | Brian Harvey’s Berkeley CS 61A     |
