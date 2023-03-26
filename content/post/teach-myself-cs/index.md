@@ -16,9 +16,11 @@ image:
   preview_only: false
 ---
 #﻿ Why I write the blog
+
 H﻿ello, This is Sitao Tong, I'm writing this post to briefly summarize how I learn computer science in the past 5 year during my college life.
 
 #﻿ TL;DR:
+
 I﻿ have summarize the nine major course I have learn as an undergraduate, along with the textbook and course project I have done.
 | Subject      | Why study?                                                  | Book                                    | Videos                             |
 | ------------ | ------------------------------------------------------------ | --------------------------------------- | ---------------------------------- |
