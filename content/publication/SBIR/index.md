@@ -41,7 +41,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: sbirsys.png
-date: 2023-02-26T21:50:04.144Z
+date: 2022-06-26T21:50:04.144Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
