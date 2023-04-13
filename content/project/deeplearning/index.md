@@ -2,7 +2,7 @@
 title: Singer Contest System
 subtitle: based on C++ linked list
 date: 2023-02-26T21:15:44.626Z
-summary: ""
+summary: based on C++ linked list
 draft: false
 featured: false
 tags:
