@@ -7,7 +7,6 @@ draft: false
 featured: false
 tags:
   - Web
-  - Java
 links:
   - url: https://github.com/OwlinLight/campus_activity_stystem
     name: Github
