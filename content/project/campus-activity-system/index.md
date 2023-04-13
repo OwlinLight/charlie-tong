@@ -9,10 +9,10 @@ tags:
   - Web
   - Java
 links:
-  - url: <https://github.com/OwlinLight/campus_activity_stystem>
+  - url: https://github.com/OwlinLight/campus_activity_stystem
     name: Github
     icon_pack: fab
-    icon: ""
+    icon: github
 image:
   filename: featured
   focal_point: Smart
