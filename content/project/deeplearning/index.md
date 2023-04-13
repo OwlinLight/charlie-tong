@@ -11,7 +11,7 @@ links:
   - url: https://github.com/OwlinLight/singer-contest-system
     name: Github
     icon_pack: fab
-    icon: github
+    icon: ""
 image:
   filename: featured
   focal_point: Smart
