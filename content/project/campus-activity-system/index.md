@@ -5,6 +5,11 @@ date: 2023-04-13T20:47:27.207Z
 summary: Java | Spring MVC | Spring | Mybatis | MySql
 draft: false
 featured: false
+links:
+  - url: <https://github.com/OwlinLight/campus_activity_stystem>
+    name: Github
+    icon_pack: fab
+    icon: github
 image:
   filename: featured
   focal_point: Smart
