@@ -4,11 +4,7 @@ date: 2023-04-13T21:11:39.658Z
 summary: C﻿AD & Andriod Studio
 draft: false
 featured: false
-links:
-  - url: https://www.bilibili.com/video/BV1Ms411t7zn/?vd_source=dad748819a03c08fc02131aa6ce12bef
-    name: Video
-    icon_pack: fab
-    icon: Bilibili
+links: []
 image:
   filename: featured
   focal_point: Smart
