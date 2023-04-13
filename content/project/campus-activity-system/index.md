@@ -5,6 +5,9 @@ date: 2023-04-13T20:47:27.207Z
 summary: Java | Spring MVC | Spring | Mybatis | MySql
 draft: false
 featured: false
+tags:
+  - Web
+  - Java
 links:
   - url: <https://github.com/OwlinLight/campus_activity_stystem>
     name: Github
