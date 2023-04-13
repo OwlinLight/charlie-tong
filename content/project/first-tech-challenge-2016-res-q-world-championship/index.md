@@ -8,7 +8,7 @@ links:
   - url: www.bilibili.com/video/BV1Ms411t7zn
     name: video
     icon_pack: fab
-    icon: Bilibili
+    icon: ""
 image:
   filename: featured
   focal_point: Smart
