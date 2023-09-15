@@ -8,7 +8,7 @@ interests: []
 social:
   - display:
       header: true
-    link: mailto:tong.408@osu.edu
+    link: mailto:owlinlight@gmail.com
     icon_pack: fas
     icon: envelope
   - icon: linkedin
